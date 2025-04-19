@@ -1,4 +1,4 @@
-                                            🕵️‍♂️ Police-Involved Crime Analysis (Washington Post Dataset)
+     🕵️‍♂️ Police-Involved Crime Analysis (Washington Post Dataset)
 
 This project is part of the 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu. The goal of this project is to explore and analyze real-world data from The Washington Post related to police-involved killings in the United States.
 
